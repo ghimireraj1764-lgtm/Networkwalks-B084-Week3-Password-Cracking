@@ -53,12 +53,12 @@ Performing a dictionary-based password attack using NetworkWalks tools.
 ### 4. Extracted PDF Hash
 The extracted hash used during the password cracking exercise.
 
-`hash1.txt`
+[hash1.txt](evidence/hash1.txt)
 
 ### 5. Password-Protected PDF
 The PDF file used for the NetworkWalks password cracking exercise.
 
-`My Locked PDF1 (for NW Tools).pdf`
+[My Locked PDF1 (for NW Tools)](evidence/My_Locked_PDF1_(for_NW_Tools).pdf)
 ## Key Learnings
 
 - Understanding password hashing and PDF hash formats.
@@ -71,3 +71,9 @@ The PDF file used for the NetworkWalks password cracking exercise.
 ## Disclaimer
 
 This project was completed for educational purposes as part of my cybersecurity internship at NetworkWalks. All activities were performed in a controlled lab environment using test files.
+
+## 👤 Author
+
+**Raj Ghimire**  
+Cybersecurity & Ethical Hacking Intern  
+NetworkWalks | Batch B084
