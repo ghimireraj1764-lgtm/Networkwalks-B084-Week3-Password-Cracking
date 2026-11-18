@@ -38,17 +38,17 @@ The practical exercises involved generating and extracting PDF password hashes, 
 ### 1. John the Ripper (Johnny)
 Password cracking process and recovered password using Johnny.
 
-![John the Ripper](Evidence/mylockedpdf1.pdf1_password_jtr.png)
+![John the Ripper](evidence/My Locked PDF1_password_jtr.png)
 
 ### 2. NetworkWalks Hash Calculator
 Generating and extracting the PDF password hash.
 
-![NetworkWalks Hash Calculator](Evidence/nw_hash_calculator.png)
+![NetworkWalks Hash Calculator](evidence/nw_hash_calculator.png)
 
 ### 3. NetworkWalks Password Cracking Tool
 Performing a dictionary-based password attack using NetworkWalks tools.
 
-![NetworkWalks Password Cracking](Evidence/nw_password_cracking_tool.png)
+![NetworkWalks Password Cracking](evidence/nw_password_cracking_tool.png)
 
 ### 4. Extracted PDF Hash
 The extracted hash used during the password cracking exercise.
